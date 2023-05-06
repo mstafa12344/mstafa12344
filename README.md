@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ali</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Embeded software engineer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2696F3&center=true&width=835&lines=Embeded software engineer;Always+Learning+New+Things!" alt="Typing SVG" />
 
 
 

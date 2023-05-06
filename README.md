@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ali</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
-<h3> I'm a Communications and Electronics Engineering student that is passionate about Embedded systems software and Digital IC design. lately, I worked on a Tiva-c Drivers, RTOS, and Automotive Door Controlled system design, and During the semester we've built a 16-bit MIPS-Like processor. Right now, I'm working on STM32f103 MCU</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Embeded software engineer;Always+Learning+New+Things!" alt="Typing SVG" />
+
+
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 76% height=30px>
 

@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mustafa-ali-107713210" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fninjatech.live%2Fwhat-is-avr-microcontroller-features-of-the-avr-microcontroller%2F&psig=AOvVaw1vdpxd6228iAa9tHd34q41&ust=1683426527419000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOD6o9TS3_4CFQAAAAAdAAAAABAE" alt="mohamed-ali-166a16175" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mustafa-ali-107713210" target="blank"><img align="center" src=" height="30" width="40" /></a>
 </p>
 <h3> align="left"> Microcontrollers:</h3>
 <a href="https://www.microchip.com/en-us/product/ATMEGA32" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

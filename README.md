@@ -22,6 +22,5 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  
 <h3 align="left">Tools:</h3>
-![CLion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=CLion&logoColor=007ACC)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<a <img src="https://img.shields.io/badge/-CLion-05122A?style=flat&logo=CLion&logoColor=007ACC" alt="c Lion" width="40" height="40"/>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ali</h1>
-<h3> communications and electronics enguneering student interested in embedded systems specially automative industry</h3>
+<h3> I'm a Communications and Electronics Engineering student that is passionate about Embedded systems software and Digital IC design. lately, I worked on a Tiva-c Drivers, RTOS, and Automotive Door Controlled system design, and During the semester we've built a 16-bit MIPS-Like processor. Right now, I'm working on STM32f103 MCU</h3>
 
 
 - 🌱 I’m currently learning **STM32f103 microcontroller based on ARM,TM4C123 instructions assembly ,RTOS**

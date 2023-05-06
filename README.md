@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ali</h1>
 <h3> I'm a Communications and Electronics Engineering student that is passionate about Embedded systems software and Digital IC design. lately, I worked on a Tiva-c Drivers, RTOS, and Automotive Door Controlled system design, and During the semester we've built a 16-bit MIPS-Like processor. Right now, I'm working on STM32f103 MCU</h3>
 
-<hr>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 76% height=30px>
+
 - 🌱 I’m currently learning **STM32f103 microcontroller based on ARM,TM4C123 instructions assembly ,RTOS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mstafa12344](https://github.com/mstafa12344)

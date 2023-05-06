@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ali</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=1000&pause=1000&color=7992F3&center=true&width=835&lines=Embeded software engineer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=1000&pause=1000&color=7992F3&center=true&width=835&lines=Embedded software engineer;Always+Learning+New+Things!" alt="Typing SVG" />
 
 - 🌱 I’m currently learning **STM32f103 microcontroller based on ARM,TM4C123 instructions assembly ,RTOS**
 
